@@ -36,8 +36,8 @@ Node.js · Express.js · REST APIs · Socket.IO
 **Database**  
 PostgreSQL · MySQL · MongoDB · Prisma ORM
 
-**Tools & Libraries**  
-Git · GitHub · Google OAuth · TanStack Query · Zustand
+**Tools & Practices**  
+Git · GitHub · Google OAuth · TanStack Query · Zustand · Chrome DevTools · Agile (Scrum) · Code Reviews
 
 ---
 
@@ -45,32 +45,30 @@ Git · GitHub · Google OAuth · TanStack Query · Zustand
 
 ### ChromaWalk — Colour Exploration App
 
-A location-based colour exploration application built in a six-person Agile team.
+A location-based social web application that allows users to discover, capture and share colours through collaborative challenges, built in a six-person Agile team.
 
 **Tech Stack:** React · TypeScript · Node.js · Express · MongoDB · Socket.IO
 
 Key features:
-
 - Responsive frontend built with React 19, TypeScript and Tailwind CSS
 - State management and data fetching with Zustand and TanStack Query
 - Real-time team chat and live progress updates using Socket.IO
-- Google OAuth authentication
-- Google Maps location selection
+- Google OAuth authentication and Google Maps location selection
 - Client-side image compression before upload
+- Shared TypeScript interfaces between frontend and backend for consistent data models
 
 ---
 
 ### Y&T Paws Booking Platform
 
-A full-stack booking platform for pet boarding and home-visit services.
+A full-stack booking platform that allows pet owners to book boarding and home-visit services online — designed and developed end to end, covering database design, REST API development and responsive frontend implementation.
 
 **Tech Stack:** React · Node.js · Express · TypeScript · Prisma · PostgreSQL
 
 Key features:
-
 - Relational database design for users, pets and bookings
-- REST API development with Node.js and Express
-- Authentication and role-based access control
+- REST API development with Node.js, Express and Prisma ORM
+- User authentication and role-based access control
 - Booking validation to prevent scheduling conflicts
 - Responsive React frontend with form validation, API integration and error handling
 
@@ -82,25 +80,24 @@ Key features:
 Isoftstone Information Technology Co., Ltd.  
 Apr 2016 – Oct 2019
 
-- Built and maintained enterprise web applications using Vue.js, JavaScript and jQuery
-- Developed internal management systems with RESTful APIs
-- Improved page load performance by reducing HTTP requests through CSS sprite sheet optimisation
-- Collaborated with backend engineers and product managers to deliver new features
+- Built and maintained enterprise web applications using Vue.js, JavaScript and jQuery to support business-critical workflows
+- Developed an internal management system with Vue.js and RESTful APIs, streamlining data management for internal teams
+- Improved page load performance by reducing HTTP requests by 40% through CSS sprite sheet optimisation
+- Partnered with backend engineers and product managers to refine requirements, resolve UI issues and deliver new features
 
 ---
 
 ## Education
 
 **Master of Information Technology**  
-University of Auckland, New Zealand  
+The University of Auckland, New Zealand  
 Expected Completion: 2027
 
-Relevant coursework: Database Systems · Software Engineering · Web Development · Data Structures & Algorithms
+Relevant coursework: Software Engineering · Web Development · Database Systems · Data Structures & Algorithms
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/xiyun-liu/
-- GitHub: https://github.com/xiyunliu610
-- Email: 15057164258@163.com
+- 💼 LinkedIn: https://www.linkedin.com/in/xiyun-liu/
+- 📧 Email: xliu713@aucklanduni.ac.nz
