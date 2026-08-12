@@ -1,103 +1,132 @@
 # Hi, I'm Xiyun Liu 👋
 
-Graduate Software Engineer | Full-Stack Development  
-Master of Information Technology @ University of Auckland
+Software Engineer with 3+ years of professional frontend development experience, currently completing a Master of Information Technology at the University of Auckland.
 
-I am seeking a Graduate or Junior Software Engineer role where I can combine my previous professional frontend development experience with the full-stack development skills gained through my Master of Information Technology at the University of Auckland.
+I'm now moving further into full-stack development, mainly working with React, TypeScript, Node.js and PostgreSQL.
 
-I enjoy building user-focused web applications, solving practical problems and collaborating with others to deliver reliable software.
-
----
-
-## About Me
-
-- 📍 Auckland, New Zealand
-- 🎓 Master of Information Technology, University of Auckland
-- 💼 3+ years of professional frontend development experience
-- 🌱 Currently building full-stack projects with React, Node.js, Express and databases
-- 🔍 Interested in Graduate Software Engineer, Junior Software Engineer and Full Stack Developer roles
+📍 Auckland, New Zealand
+🎓 Master of Information Technology, University of Auckland
+💼 3+ years of professional frontend development experience
+🔎 Looking for Graduate, Junior and Internship Software Engineering opportunities in New Zealand
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**  
+**Languages**
 TypeScript · JavaScript · SQL
 
-**Knowledge of**  
-Python
-
-**Frontend**  
+**Frontend**
 React · Vue.js · Svelte · HTML5 · CSS3 · Tailwind CSS
 
-**Backend**  
+**Backend**
 Node.js · Express.js · REST APIs · Socket.IO
 
-**Database**  
+**Database**
 PostgreSQL · MySQL · MongoDB · Prisma ORM
 
-**Tools & Practices**  
-Git · GitHub · Google OAuth · TanStack Query · Zustand · Chrome DevTools · Agile (Scrum) · Code Reviews
+**Tools**
+Git · GitHub · Google OAuth · TanStack Query · Zustand · Chrome DevTools
+
+**Other**
+Agile · Scrum · Code Reviews
 
 ---
 
-## Featured Projects
+## Projects
 
 ### ChromaWalk — Colour Exploration App
 
-A location-based social web application that allows users to discover, capture and share colours through collaborative challenges, built in a six-person Agile team.
+A location-based social web app for discovering, capturing and sharing colours through collaborative challenges.
 
-**Tech Stack:** React · TypeScript · Node.js · Express · MongoDB · Socket.IO
+Built as part of a six-person Agile team using:
 
-Key features:
-- Responsive frontend built with React 19, TypeScript and Tailwind CSS
-- State management and data fetching with Zustand and TanStack Query
-- Real-time team chat and live progress updates using Socket.IO
-- Google OAuth authentication and Google Maps location selection
-- Client-side image compression before upload
-- Shared TypeScript interfaces between frontend and backend for consistent data models
+**React · TypeScript · Node.js · Express · MongoDB · Socket.IO**
+
+What I worked on:
+
+* Built responsive frontend features with React, TypeScript and Tailwind CSS
+* Used Zustand and TanStack Query for state management and data fetching
+* Worked with backend developers on real-time chat and live progress updates
+* Integrated Google OAuth and Google Maps
+* Added client-side image compression before upload
+* Used shared TypeScript interfaces between frontend and backend
+
+[View project](https://github.com/xiyunliu610/ChromaWalk)
 
 ---
 
 ### Y&T Paws Booking Platform
 
-A full-stack booking platform that allows pet owners to book boarding and home-visit services online — designed and developed end to end, covering database design, REST API development and responsive frontend implementation.
+A full-stack booking platform I'm building for a real pet-care business.
 
-**Tech Stack:** React · Node.js · Express · TypeScript · Prisma · PostgreSQL
+**React · TypeScript · Node.js · Express · Prisma · PostgreSQL**
 
-Key features:
-- Relational database design for users, pets and bookings
-- REST API development with Node.js, Express and Prisma ORM
-- User authentication and role-based access control
-- Booking validation to prevent scheduling conflicts
-- Responsive React frontend with form validation, API integration and error handling
+Current features include:
+
+* User, pet and booking database models
+* REST APIs with Node.js, Express and Prisma
+* Authentication and role-based access control
+* Booking validation to prevent scheduling conflicts
+* Responsive React booking flow
+* Form validation, API integration and error handling
+
+[View project](https://github.com/xiyunliu610/yt-paws-platform)
 
 ---
 
-## Professional Experience
+## Experience
 
-**Software Engineer (Front-end)**  
-Isoftstone Information Technology Co., Ltd.  
+### Software Engineer (Front-end)
+
+**Isoftstone Information Technology Co., Ltd.**
 Apr 2016 – Oct 2019
 
-- Built and maintained enterprise web applications using Vue.js, JavaScript and jQuery to support business-critical workflows
-- Developed an internal management system with Vue.js and RESTful APIs, streamlining data management for internal teams
-- Improved page load performance by reducing HTTP requests by 40% through CSS sprite sheet optimisation
-- Partnered with backend engineers and product managers to refine requirements, resolve UI issues and deliver new features
+* Built and maintained enterprise web applications using Vue.js and JavaScript
+* Developed an internal management system using Vue.js and REST APIs
+* Worked with backend engineers and product managers on requirements, UI issues and new features
+* Reduced HTTP requests by 40% through CSS sprite sheet optimisation
+
+### Software Engineering Volunteer
+
+**Rural Youth and Adult Literacy Trust (RYALT)**
+Jul 2025 – Present
+
+* Reviewed the existing WordPress platform with the team
+* Helped identify maintainability and scalability issues
+* Worked with stakeholders to understand requirements and possible technical changes
+* Contributing to the redevelopment of the platform
+
+---
+
+## Other Experience
+
+### Founder & Operations Lead
+
+**Stray Animal Rescue Centre, Hangzhou**
+Oct 2019 – May 2025
+
+* Helped run a rescue centre caring for up to 300 dogs at a time
+* Coordinated volunteers, veterinary care and adoption work
+* Supported the rescue of 1,000+ dogs and 100+ cats over several years
+* Managed day-to-day operations and practical problems in a resource-limited environment
 
 ---
 
 ## Education
 
-**Master of Information Technology**  
-The University of Auckland, New Zealand  
-Expected Completion: 2027
+### Master of Information Technology
 
-Relevant coursework: Software Engineering · Web Development · Database Systems · Data Structures & Algorithms
+**The University of Auckland, New Zealand**
+Expected completion: 2027
+
+Relevant coursework:
+
+Software Engineering · Web Development · Database Systems · Data Structures & Algorithms
 
 ---
 
 ## Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/xiyun-liu/
-- 📧 Email: xliu713@aucklanduni.ac.nz
+💼 [LinkedIn](https://www.linkedin.com/in/xiyun-liu/)
+📧 [xliu713@aucklanduni.ac.nz](mailto:xliu713@aucklanduni.ac.nz)
