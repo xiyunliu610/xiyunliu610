@@ -23,7 +23,7 @@ React · React Native · Vue.js · Svelte · Zustand · TanStack Query · Tailwi
 Node.js · NestJS · Express.js · REST APIs · Socket.IO
 
 **Data & Services**  
-PostgreSQL · MySQL · MongoDB · Prisma · Stripe
+PostgreSQL · MySQL · MongoDB · Prisma · Stripe · POLi (UAT)
 
 **Tools & Practices**  
 Git · GitHub · Docker · Agile/Scrum · Code Reviews · Unit/E2E Testing
@@ -33,6 +33,8 @@ Git · GitHub · Docker · Agile/Scrum · Code Reviews · Unit/E2E Testing
 ## Projects
 
 ### ChromaWalk — Colour Exploration App
+
+**Mar 2026 – Jun 2026**
 
 A location-based social web app for discovering, capturing and sharing colours through collaborative challenges.
 
@@ -48,20 +50,21 @@ What I worked on:
 
 [View project](https://github.com/xiyunliu610/ChromaWalk)
 
----
-
 ### PetHome — Y&T Paws Pet-Care Management Platform
+
+**Jun 2026 – Present**
 
 A bilingual mobile booking and management platform I'm building for a real Auckland pet-care business.
 
-**React Native (Expo) · TypeScript · NestJS · Prisma · PostgreSQL · Stripe**
+**React Native (Expo) · TypeScript · NestJS · Prisma · PostgreSQL · Stripe · POLi (UAT)**
 
 Current features include:
 
 - Customer, owner and staff workflows for bookings, pet profiles, services and daily care updates
 - JWT authentication and business-scoped role-based access control
 - Capacity checks and PostgreSQL transactions to prevent pet, service and staff overbooking
-- Stripe Checkout and a manually verified WeChat QR payment flow
+- Stripe Checkout and POLi payment integration completed in a UAT environment
+- A manually verified WeChat QR payment flow
 - English/Chinese localisation, media uploads, in-app notifications and Expo push notifications
 
 [View project](https://github.com/xiyunliu610/yt-paws-platform)
